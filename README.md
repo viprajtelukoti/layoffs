@@ -28,12 +28,12 @@ Country: The country in which the layoffs were announced. <br>
 Percentage Laid Off: The percentage of the company's workforce affected by layoffs.
 
 ## Tools and Technologies: -
-Power BI: Dashboard creation and data visualization.
-Microsoft Excel: Used for initial data formatting and preparation.
-Dataset Source: layoffs.fyi.
+Power BI: Dashboard creation and data visualization. <br>
+Microsoft Excel: Used for initial data formatting and preparation. <br>
+Dataset Source: layoffs.fyi. 
 
 ## Future Enhancement: -
-The project is actively maintained, and future iterations will focus on the following improvements:
+The project is actively maintained, and future iterations will focus on the following improvements: <br>
 
-Automated Data Refresh: Integrating real-time data updates from layoffs.fyi.
-Expanded Dataset: Including non-tech layoffs to provide a broader industry perspective.
+Automated Data Refresh: Integrating real-time data updates from layoffs.fyi. <br>
+Expanded Dataset: Including non-tech layoffs to provide a broader industry perspective. <br>
