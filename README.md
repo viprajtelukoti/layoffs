@@ -14,9 +14,9 @@ Industry & Geographic Distribution: Review layoffs across various tech sub-secto
 ## Data Source: -
 The dataset comes from layoffs.fyi, a platform tracking layoff announcements in the tech industry. The data reflects information gathered from public sources such as news reports and company disclosures.
 
-##Dataset Details: -
+# Dataset Details: -
 
-#Fields:
+# Fields:
 Company: The name of the company experiencing layoffs.
 Location: The office or headquarters location where layoffs occurred.
 Industry: The sector or type of technology in which the company operates.
