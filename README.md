@@ -17,14 +17,14 @@ The dataset comes from layoffs.fyi, a platform tracking layoff announcements in 
 # Dataset Details: -
 
 Fields:
-Company: The name of the company experiencing layoffs.
-Location: The office or headquarters location where layoffs occurred.
-Industry: The sector or type of technology in which the company operates.
-Total Laid Off: The total number of employees laid off.
-Date: The date the layoffs were announced or carried out.
-Funds Raised: Total funds raised by the company up to the point of layoffs.
-Stage: The company’s development stage (e.g., Seed, Series A, Series B, etc.).
-Country: The country in which the layoffs were announced.
+Company: The name of the company experiencing layoffs. <br>
+Location: The office or headquarters location where layoffs occurred. <br>
+Industry: The sector or type of technology in which the company operates. <br>
+Total Laid Off: The total number of employees laid off. <br>
+Date: The date the layoffs were announced or carried out. <br>
+Funds Raised: Total funds raised by the company up to the point of layoffs. <br>
+Stage: The company’s development stage (e.g., Seed, Series A, Series B, etc.). <br>
+Country: The country in which the layoffs were announced. <br>
 Percentage Laid Off: The percentage of the company's workforce affected by layoffs.
 
 ## Tools and Technologies: -
