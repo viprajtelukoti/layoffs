@@ -1,5 +1,5 @@
 
-### Tech Layoffs Dashboard (2020 - Present)
+# Tech Layoffs Dashboard (2020 - Present)
 This repository contains the Tech Layoffs Dashboard, an interactive tool developed using Power BI to track layoffs across the tech industry from 2020 onwards. The dataset is sourced from layoffs.fyi, which aggregates data on layoffs happening in tech companies globally.
 
 ## Project Overview: - 
