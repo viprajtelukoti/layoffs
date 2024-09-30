@@ -16,7 +16,7 @@ The dataset comes from layoffs.fyi, a platform tracking layoff announcements in 
 
 # Dataset Details: -
 
-# Fields:
+Fields:
 Company: The name of the company experiencing layoffs.
 Location: The office or headquarters location where layoffs occurred.
 Industry: The sector or type of technology in which the company operates.
